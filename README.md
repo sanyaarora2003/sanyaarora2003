@@ -2,7 +2,7 @@
 - 👀 I’m interested in web devlopment, java, cpp, encription
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java based projects
-- 📫 How to reach me email- sanyaarora229@gmail.com
+- 📫 How to reach me email- arora.sanya239@gmail.com
 
 <!---
 sanyaarora2003/sanyaarora2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
